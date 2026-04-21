@@ -16,4 +16,8 @@ class Mahasiswa{
 
 int main(){
     Mahasiswa mhs;
+    
+    mhs.nim = 111;
+    mhs.nama = "Joko Susilo";
+    mhs.nilai = 75.5;
 }
